@@ -8,12 +8,16 @@ corresponding length
 - find count of all strings which contain alphabet ‘m’
 - find the count of all strings which start with the alphabet ‘a’
 
-### Code - ## Scala#1_Assignment#1_Task#2.scala
-### Execution screenshot - ## Scala#1_Assignment#1_Task#2_Screenshot.png
+### Code - 
+## Scala#1_Assignment#1_Task#2.scala
+### Execution screenshot - 
+## Scala#1_Assignment#1_Task#2_Screenshot.png
 
 # Task 3
 Create a Scala application to find the GCD of two numbers.
 
-### Code - ## Scala#1_Assignment#1_Task#3.scala
-### Execution screenshot - ## Scala#1_Assignment#1_Task#3_Screenshot.png
+### Code - 
+## Scala#1_Assignment#1_Task#3.scala
+### Execution screenshot - 
+## Scala#1_Assignment#1_Task#3_Screenshot.png
 
